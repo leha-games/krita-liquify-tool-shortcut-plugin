@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=KritaLiquifyTool
+X-Python-2-Compatible=false
+Name=Krita Liquify Tool Shortcut
+Comment=Setup shortcut for the Liquify tool
